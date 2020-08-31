@@ -1,6 +1,8 @@
 ![](https://github.com/RamBoda1994/react-facebook/blob/master/src/fb.gif)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The application is live and running. Please visit https://facebook-clone-ramboda.netlify.app/
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-
 
 ## Available Scripts
 
