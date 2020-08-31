@@ -1,3 +1,5 @@
+![](https://github.com/RamBoda1994/react-facebook/blob/master/src/fb.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
